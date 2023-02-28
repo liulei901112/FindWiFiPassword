@@ -15,3 +15,6 @@
 
 #### 软件截图
 ![主界面](images/MainForm.png)
+
+#### 感谢
+感谢[alexromeo](http://www.alexromeo.net)提供的思路及测试环境！！！
